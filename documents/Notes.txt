@@ -1,0 +1,13 @@
+https://www.college-de-france.fr/site/stephane-mallat/seminar-2018-02-21-11h15.htm
+
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+https://www.kaggle.com/chasseur/housing-price-by-chasseur/comments?select=test.csv
+
+Exploration des données :
+
+Preparation des données:
+
+Utilisation de Pycaret pour visualiser les modèles:
+
+
+Quelques modèles : XGBoost, CatBoost, Stacking Modele
